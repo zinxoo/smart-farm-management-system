@@ -1,0 +1,2 @@
+Cereal,Wheat,10,Winter,25,NPK
+Vegetable,Potato,5,Winter,30,4
